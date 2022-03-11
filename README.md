@@ -4,14 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://komarev.com/ghpvc/?username=terupro
-
-<a href="https://github.com/terupro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/terupro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
-</a>
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <!---
 terupro/terupro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
