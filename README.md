@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="https://github.com/tocoteron">
+https://komarev.com/ghpvc/?username=terupro
+
+<a href="https://github.com/terupro">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/tocoteron">
+<a href="https://github.com/terupro">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
 </a>
 
