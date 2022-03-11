@@ -8,8 +8,8 @@
   <a href="https://github.com/terupro/">
     <img src="https://komarev.com/ghpvc/?username=terupro" alt="terupro" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/terupro911">
+    <img height="20" src="https://img.shields.io/twitter/follow/terupro?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yutkat">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
