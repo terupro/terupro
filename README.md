@@ -6,7 +6,8 @@
 <a href="https://github.com/terupro">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terupro&layout=compact&theme=dracula" />
 </a>
-<br>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=terupro&theme=onedark)](https://github.com/terupro/github-profile-trophy)
 
 
