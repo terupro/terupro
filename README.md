@@ -7,7 +7,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terupro&layout=compact&theme=dracula" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={terupro}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terupro
 )](https://github.com/terupro/github-readme-stats)
 
 
