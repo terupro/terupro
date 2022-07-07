@@ -11,9 +11,7 @@
 
 
 ## Github Trophy
-<a href="https://github.com/terupro">
-  <div> [![trophy](https://github-profile-trophy.vercel.app/?username=terupro&theme=onedark)](https://github.com/terupro/github-profile-trophy)</div>
-</a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=terupro&theme=onedark)](https://github.com/terupro/github-profile-trophy)
 
 
 
