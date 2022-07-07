@@ -9,9 +9,6 @@
 
 
 
-
-## Github Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=terupro&theme=onedark&column=7)](https://github.com/terupro/github-profile-trophy)
 
 <!---
