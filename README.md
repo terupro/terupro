@@ -18,9 +18,7 @@ I'm University Student from Tokyo.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=terupro&theme=onedark&column=7)](https://github.com/terupro/github-profile-trophy)
 
-<!---
-terupro/terupro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
 *   🌍  I'm based in Tokyo
 *   🖥️  See my portfolio at [MyPortfolio](http://github.com/terupro/portfolio)
@@ -30,4 +28,3 @@ You can click the Preview link to take a look at your changes.
 *   🤝  I'm open to collaborating on interesting project
 *   ⚡  I'm a big fan of Barcelona.
 
---->
