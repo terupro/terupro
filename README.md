@@ -1,4 +1,4 @@
-Hi !My name is TERU [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ! My name is TERU  [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
 I'm University Student from Tokyo.
@@ -10,6 +10,8 @@ I'm University Student from Tokyo.
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on interesting project
 *   ⚡  I'm a big fan of Barcelona.
+
+============================================================================================================================
 
 
 <a href="https://github.com/terupro">
